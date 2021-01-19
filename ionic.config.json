@@ -1,0 +1,7 @@
+{
+  "name": "Mp3Player",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
